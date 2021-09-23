@@ -1,6 +1,4 @@
-## Hi, Python
-
-## <a name='exercises'>Exercises</a>
+<a name='exercises'>Exercises</a>
 
 ### 00 Json to ini
 
