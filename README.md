@@ -2,14 +2,14 @@
 
 ### 00 Json to ini
 
-Folder : **`cd ex00_json2ini/`**
+Folder : **`cd ex00_json2ini/`** <br/>
 Run : **`python3 ex00_json2ini.py example.json/`**
 
 This program that take a json configuration file as an argument and generate an ini one.
 
 ### 01 Json to CSV 
 
-Folder : **`cd ex01_json2csv/`**
+Folder : **`cd ex01_json2csv/`** <br/>
 Run : **`python3 ex00_json2ini.py example.json/`**
 
 This program that take a json file as input and generate a csv file in output.
